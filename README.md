@@ -1,5 +1,5 @@
-Hearts
-======
+[Hearts](http://serebryakov.info/hearts/)
+=========================================
 Fluttering hearts for any picture or GIF!
 
 Built with [Elm](http://elm-lang.org/) 0.17.
