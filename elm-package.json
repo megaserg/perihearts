@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Hearts",
-    "repository": "http://github.com/megaserg/repo.git",
+    "repository": "https://github.com/megaserg/perihearts.git",
     "license": "MIT",
     "source-directories": [
         "."
